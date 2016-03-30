@@ -1,0 +1,63 @@
+1. How to link to decks? 
+
+<!-- TEMPLATE FOR  DECKS -->
+
+<div id="Deck Name" class="row center-block">
+			<div class="text-center">
+				<h2>DECK NAME</h2>
+			</div>
+	<div class="col-xs-4 col-md-4 col-lg-4 text-left">
+
+		<p><b>Strategy</b></p>
+		<ul>
+		<li>Bullet Point</li>
+		<li>Bullet Point</li>
+		<li>Bullet Point</li>
+		</ul>
+
+		<p><b>Common Counter Strategies</b></p>
+		<ul>
+		<li>Bullet Point</li>
+		<li>Bullet Point</li>
+		<li>Bullet Point</li>
+		</ul>
+	</div>
+	<div class="col-xs-4 col-md-4 col-lg-4 text-left">
+	<dl>
+		<dt>Key Openers</dt>
+			<dd>List of</dd>
+		<dt>Burst</dt>
+			<dd>List of</dd>
+		<dt>Removal</dt>
+			<dd>List of</dd>
+		<dt>Board Clears</dt>
+			<dd>List of</dd>
+		<dt>Minion Buffs</dt>
+			<dd>List of</dd>
+		<dt>Heals/Armor</dt>
+			<dd>List of </dd>
+		<dt>Taunts</dt>
+			<dd>List of</dd>
+		<dt>Other Key Plays</dt>
+			<dd>List of</dd>
+	</dl>
+	</div>
+	<div class="col-xs-4 col-md-4 col-lg-4 text-left">
+		<ul class="list-unstyled">
+			<li><b>Key Plays Per Turn</b></li>
+			<li>T1:</li>
+			<li>T2:</li>
+			<li>T3:</li>
+			<li>T4:</li>
+			<li>T5:</li>
+			<li>T6:</li>
+			<li>T7:</li>
+			<li>T8:</li>
+			<li>T9:</li>
+			<li>T10:</li>
+		</ul>
+	</div>
+	
+	
+
+
